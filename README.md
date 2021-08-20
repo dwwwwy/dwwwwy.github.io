@@ -3,7 +3,7 @@
 <html>
   <title>MyBlog</title>
   <body> 
-    <a href="/MyBlog"></a>
+    <a href="/MyBlog"> hhhhh </a>
     <H1>标题</H1>
   </body>
 </html>
